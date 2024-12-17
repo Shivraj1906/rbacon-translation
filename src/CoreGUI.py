@@ -1,7 +1,6 @@
 from tkinter import *
 import tkinter as tk
 from tkinter import filedialog
-import csv
 from src.Bacon import Bacon
 from tkinter import ttk
 import threading

@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+pymupdf
+pandastable
+rpy2
